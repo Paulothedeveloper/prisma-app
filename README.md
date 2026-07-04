@@ -136,13 +136,11 @@ Instalador autocontido (ffmpeg embutido). Versão para **Mac vem a seguir**.
 
 ---
 
-## Sobre o dev
+## 👤 Sobre o desenvolvedor
 
-<img src="https://paulocodex.com/products/paulo.jpg" alt="Paulo Adriel" width="120" align="left" style="margin-right:16px;border-radius:12px" />
+<img src="https://paulocodex.com/products/paulo.jpg" alt="Paulo Adriel" width="130" align="left" style="margin-right:18px;border-radius:12px" />
 
-**Paulo Adriel** — produtor e editor de vídeo (Mentors Studio) e desenvolvedor indie, de Porto Velho/RO, Brasil.
-
-O PRISMA nasceu de um problema real de bancada: eu perdia mais tempo procurando material do que editando. Então construí a ferramenta que eu mesmo queria usar — e cuido dela como cuido de um corte: código, identidade, motion e lançamento, tudo feito com capricho. Estúdio [Paulocodex](https://paulocodex.com).
+**Paulo Adriel** é produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele — código + identidade visual, motion e material de lançamento — do zero ao ar em 30 dias. Trabalho de forma aberta e escuto quem usa. Estúdio [**Paulocodex**](https://paulocodex.com).
 
 <br clear="left" />
 
@@ -150,12 +148,8 @@ O PRISMA nasceu de um problema real de bancada: eu perdia mais tempo procurando 
 
 <div align="center">
 
-### Pare de caçar arquivos. Comece a editar.
+📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/paulo.videodev) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/paulo-adriel/) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
 
-[![Comprar agora — R$ 150](https://img.shields.io/badge/Comprar%20agora%20%E2%80%94%20R%24%20150-0A84FF?style=for-the-badge)](https://paulocodex.com/comprar?product=prisma)
-
-📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
-
-<sub>Repositório de <strong>apresentação pública</strong> — o código-fonte é fechado. Nada de dado, chave ou segredo aqui. Feito por quem edita, para quem edita.</sub>
+_Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
 
 </div>
