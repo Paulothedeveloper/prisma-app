@@ -9,7 +9,7 @@
 **A biblioteca de mídia que um editor de vídeo construiu porque cansou de caçar asset em HD.**
 Cataloga suas pastas onde elas já estão, prepara o material pro DaVinci sem retrabalho e roda 100% no seu PC — sem nuvem, sem mensalidade, sem tocar nos seus originais.
 
-[![Status](https://img.shields.io/badge/status-%C3%80%20VENDA-0A84FF?style=for-the-badge)](https://paulocodex.com/comprar?product=prisma)
+[![Status](https://img.shields.io/badge/status-%C3%80%20VENDA-0a84ff?style=for-the-badge)](https://paulocodex.com/comprar?product=prisma)
 [![Plataforma](https://img.shields.io/badge/Windows%2010%20%7C%2011-1f1f1f?style=for-the-badge&logo=windows&logoColor=white)](https://paulocodex.com/comprar?product=prisma)
 [![Licença vitalícia](https://img.shields.io/badge/licen%C3%A7a-vital%C3%ADcia%20%C2%B7%202%20PCs-30D158?style=for-the-badge)](https://paulocodex.com/comprar?product=prisma)
 
