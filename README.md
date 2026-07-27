@@ -46,6 +46,9 @@ Auto-tag, descrição por conteúdo, **ampliar imagem 4x** (Real-ESRGAN) e **rem
 ### Baixa direto da web, já catalogado
 YouTube, Instagram, áudio, vídeo em alta: cola o link e o PRISMA baixa e cataloga sozinho. Referência entra na biblioteca sem sair do app.
 
+### Lê tudo que o editor usa (não só ícone)
+Prévia de verdade dos arquivos do seu fluxo, sem abrir outro programa: **PSD, AI e PDF** (viewer nativo pro PDF), **fontes** com visor completo (amostra, cascata e mapa de glifos), **LUT com capa** — aplica o look numa referência pra você ver antes de usar —, **Word, PowerPoint e Excel** (quando o arquivo traz a prévia) e **PowerGrade, DCTL e legenda** do DaVinci como texto. E **nunca recusa um arquivo:** qualquer extensão entra na biblioteca, pesquisável e etiquetável.
+
 ### Caixa de ferramentas do editor, nativa
 Marca d'água, OCR, GIF, folha de contatos, recorte, comparar, QR, forma de onda com BPM, player com letra sincronizada, RAW/HEIC/JXL e Live Photo: tudo dentro, sem instalar mais nada.
 
@@ -85,6 +88,8 @@ O Eagle é ótimo pra imagem. Mas ele nunca editou um vídeo. O PRISMA faz **tud
 | **CST de cor pro DaVinci Resolve** | ✅ | ❌ |
 | **Proxies automáticos (ProRes etc.)** | ✅ | ❌ |
 | **Diagnóstico + conserto (VFR, banding)** | ✅ | ❌ |
+| **LUT com capa (vê o look antes)** | ✅ | ❌ |
+| **PowerGrade / DCTL do DaVinci** | ✅ | ❌ |
 | **Baixar de YouTube / Instagram** | ✅ | ❌ |
 | **Ampliar 4x + remover fundo com IA** | ✅ | ❌ |
 | Preço | **R$ 150 · uma vez, vitalício** | US$ 34,95 |
