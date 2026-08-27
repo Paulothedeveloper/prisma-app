@@ -13,7 +13,7 @@ Cataloga suas pastas onde elas já estão, prepara o material pro DaVinci sem re
 [![Plataforma](https://img.shields.io/badge/Windows%2010%20%7C%2011-1f1f1f?style=for-the-badge&logo=windows&logoColor=white)](https://paulocodex.com/comprar?product=prisma)
 [![Licença vitalícia](https://img.shields.io/badge/licen%C3%A7a-vital%C3%ADcia%20%C2%B7%202%20PCs-30D158?style=for-the-badge)](https://paulocodex.com/comprar?product=prisma)
 
-[![Comprar agora — R$ 150](https://img.shields.io/badge/Comprar%20agora%20%E2%80%94%20R%24%20150-0A84FF?style=for-the-badge)](https://paulocodex.com/comprar?product=prisma)
+[![Comprar agora R$ 150](https://img.shields.io/badge/Comprar%20agora%20%C2%B7%20R%24%20150-0A84FF?style=for-the-badge)](https://paulocodex.com/comprar?product=prisma)
 
 </div>
 
@@ -44,13 +44,21 @@ Selos de diagnóstico apontam **VFR, banding, áudio mudo e codec pesado**, e um
 Auto-tag, descrição por conteúdo, **ampliar imagem 4x** (Real-ESRGAN) e **remover fundo** (ONNX em Rust), embutidos, sem plugin. A IA é opcional e usa a **sua** chave; a imagem só é analisada quando você clica.
 
 ### Baixa direto da web, já catalogado
-YouTube, Instagram, áudio, vídeo em alta: cola o link e o PRISMA baixa e cataloga sozinho. Referência entra na biblioteca sem sair do app.
+YouTube, foto de post do Instagram, link direto de imagem, áudio e vídeo em alta: cola a URL e o PRISMA baixa e cataloga sozinho, sem login. Referência entra na biblioteca sem sair do app.
+
+<img src="assets/prisma-baixar.png" alt="PRISMA: baixar mídia da web, com uma foto de post do Instagram detectada pra baixar sem login" width="880" />
+
+<sub>Cola a URL e o PRISMA reconhece o conteúdo: aqui, uma foto de post do Instagram pronta pra baixar e catalogar, sem login</sub>
 
 ### Um acervo de mídia da web, dentro do app
-Busca e importa mídia livre sem sair do PRISMA: **GIFs** (Giphy, Tenor), **fotos e vídeos** (Pixabay, Pexels, Unsplash), **efeitos e músicas livres** (Freesound, Openverse, Jamendo), **ícones e logos**, os **botões de som virais do Myinstants** (em alta no Brasil, mais tocados e recentes) e **trilhas do Suno**. Ouve, escolhe e o arquivo cai catalogado na sua biblioteca — cada um com sua chave grátis, tudo no seu PC.
+Busca e importa mídia livre sem sair do PRISMA: **GIFs** (Giphy, Tenor), **fotos e vídeos** (Pixabay, Pexels, Unsplash), **efeitos e músicas livres** (Freesound, Openverse, Jamendo), **ícones e logos**, os **botões de som virais do Myinstants** (em alta no Brasil, mais tocados e recentes) e **trilhas do Suno** (explorar o catálogo, sua biblioteca e gerar). Ouve, escolhe e o arquivo cai catalogado na sua biblioteca, cada um com sua chave grátis, tudo no seu PC.
+
+<img src="assets/prisma-suno.png" alt="PRISMA: estúdio de música Suno, com Explorar (busca no catálogo público), Biblioteca e Gerar" width="880" />
+
+<sub>Estúdio de música Suno dentro do PRISMA: explore o catálogo público, veja sua biblioteca e gere trilhas, com Carregar mais paginando de verdade</sub>
 
 ### Lê tudo que o editor usa (não só ícone)
-Prévia de verdade dos arquivos do seu fluxo, sem abrir outro programa: **PSD, AI e PDF** (viewer nativo pro PDF), **fontes** com visor completo (amostra, cascata e mapa de glifos), **LUT com capa** — aplica o look numa referência pra você ver antes de usar —, **Word, PowerPoint e Excel** (quando o arquivo traz a prévia) e **PowerGrade, DCTL e legenda** do DaVinci como texto. E **nunca recusa um arquivo:** qualquer extensão entra na biblioteca, pesquisável e etiquetável.
+Prévia de verdade dos arquivos do seu fluxo, sem abrir outro programa: **PSD, AI e PDF** (viewer nativo pro PDF), **fontes** com visor completo (amostra, cascata e mapa de glifos), **LUT com capa** (aplica o look numa referência pra você ver antes de usar), **Word, PowerPoint e Excel** (quando o arquivo traz a prévia) e **PowerGrade, DCTL e legenda** do DaVinci como texto. E **nunca recusa um arquivo:** qualquer extensão entra na biblioteca, pesquisável e etiquetável.
 
 ### Caixa de ferramentas do editor, nativa
 Marca d'água, OCR, GIF, folha de contatos, recorte, comparar, QR, forma de onda com BPM, player com letra sincronizada, RAW/HEIC/JXL e Live Photo: tudo dentro, sem instalar mais nada.
@@ -76,9 +84,9 @@ Marca d'água, OCR, GIF, folha de contatos, recorte, comparar, QR, forma de onda
 
 <br /><br />
 
-<img src="assets/prisma-websources.png" alt="PRISMA: Fontes da Web — GIF, foto, vídeo, SFX, botões de som (Myinstants) e música (Suno) buscados dentro do app" width="880" />
+<img src="assets/prisma-websources.png" alt="PRISMA: Fontes da Web com GIF, foto, vídeo, SFX, botões de som (Myinstants) e música (Suno) buscados dentro do app" width="880" />
 
-<sub>Fontes da Web: GIF, foto, vídeo, efeitos, ícones, os botões de som do Myinstants e trilhas do Suno — busca e importa direto pra biblioteca</sub>
+<sub>Fontes da Web: GIF, foto, vídeo, efeitos, ícones, os botões de som do Myinstants e trilhas do Suno: busca e importa direto pra biblioteca</sub>
 
 </div>
 
@@ -115,9 +123,9 @@ Quando quiser todo o poder de preparo e IA, o **Pro é pagamento único**:
 
 ### R$ 150: uma vez. Vitalício. Roda em 2 PCs. Sem assinatura.
 
-**O Pro libera:** IA (busca, auto-tag, upscale, remover fundo) · CST DaVinci + proxies + conserto · baixar do YouTube/Instagram · marca d'água, GIF, folha de contatos, OCR · **uso comercial.**
+**O Pro libera:** IA (busca, auto-tag, upscale, remover fundo) · CST DaVinci + proxies + conserto · baixar do YouTube, Instagram e imagem · marca d'água, GIF, folha de contatos, OCR · **uso comercial.**
 
-[![Comprar agora — R$ 150](https://img.shields.io/badge/Comprar%20agora%20%E2%80%94%20R%24%20150-0A84FF?style=for-the-badge)](https://paulocodex.com/comprar?product=prisma)
+[![Comprar agora R$ 150](https://img.shields.io/badge/Comprar%20agora%20%C2%B7%20R%24%20150-0A84FF?style=for-the-badge)](https://paulocodex.com/comprar?product=prisma)
 
 **[paulocodex.com/comprar?product=prisma](https://paulocodex.com/comprar?product=prisma)**
 
